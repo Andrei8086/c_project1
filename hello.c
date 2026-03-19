@@ -9,7 +9,7 @@ int factorial(int n){
 void main()
 {
  printf("Hi\n\n");
- printf("Let me change something...\n\n");
+ printf("Let me change something 2...\n\n");
  printf("I calculated fac(4) = %d\n",factorial(4));
 }
 
